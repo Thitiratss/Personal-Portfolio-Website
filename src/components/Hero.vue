@@ -25,7 +25,7 @@ import me from "@/assets/me.png"
           An Information Technology second-year student from King Mongkut’s University of Technology Thonburi
         </p>
 
-        <div class="flex gap-4 flex-wrap pt-4">
+        <div class="flex justify-center md:justify-start gap-8 flex-wrap pt-4">
           <button
             class="px-6 py-3 bg-cyan-500 text-white font-bold transition-all duration-300  hover:translate-y-1 hover:bg-cyan-600 dark:bg-cyan-300 dark:text-black  dark:hover:scale-95 dark:hover:translate-y-0">
             VIEW PROJECTS
